@@ -2,6 +2,7 @@
   "name": "BITNATION-Panthalassa-TS-fs-interface",
   "version": "1.0.0",
   "description": "",
+  "main": "./FileSystemInterface.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
